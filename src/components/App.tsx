@@ -1,6 +1,7 @@
 import * as React from 'react'
 
 import PageInterface from '../PageInterface'
+import '../styles/main.scss'
 
 class App extends React.Component<PageInterface, {}> {
     public render() {
